@@ -1,0 +1,6 @@
+pymupdf==1.23.7
+scikit-learn==1.4.2
+numpy==1.26.4
+joblib==1.4.2
+pycountry==22.3.5
+langid==1.1.6 

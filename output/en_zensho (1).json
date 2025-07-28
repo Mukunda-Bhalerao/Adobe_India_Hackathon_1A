@@ -1,0 +1,104 @@
+{
+  "title": "より良い日本での生活のために",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "ようこそ,日本へ!",
+      "page": 0,
+      "confidence": 0.7,
+      "language": "Japanese",
+      "alignment": "center",
+      "bold": false,
+      "italic": false,
+      "color": "#FFFFFF"
+    },
+    {
+      "level": "H3",
+      "text": "Q",
+      "page": 1,
+      "confidence": 0.5,
+      "language": "English",
+      "alignment": "left",
+      "bold": false,
+      "italic": false,
+      "color": "#00ADEF"
+    },
+    {
+      "level": "H3",
+      "text": "A",
+      "page": 1,
+      "confidence": 0.5,
+      "language": "English",
+      "alignment": "left",
+      "bold": false,
+      "italic": false,
+      "color": "#00ADEF"
+    },
+    {
+      "level": "H3",
+      "text": "Q",
+      "page": 1,
+      "confidence": 0.5,
+      "language": "English",
+      "alignment": "left",
+      "bold": false,
+      "italic": false,
+      "color": "#00ADEF"
+    },
+    {
+      "level": "H3",
+      "text": "A",
+      "page": 1,
+      "confidence": 0.5,
+      "language": "English",
+      "alignment": "left",
+      "bold": false,
+      "italic": false,
+      "color": "#00ADEF"
+    },
+    {
+      "level": "H3",
+      "text": "Q",
+      "page": 1,
+      "confidence": 0.5,
+      "language": "English",
+      "alignment": "left",
+      "bold": false,
+      "italic": false,
+      "color": "#00ADEF"
+    },
+    {
+      "level": "H3",
+      "text": "A",
+      "page": 1,
+      "confidence": 0.5,
+      "language": "English",
+      "alignment": "left",
+      "bold": false,
+      "italic": false,
+      "color": "#00ADEF"
+    },
+    {
+      "level": "H3",
+      "text": "Q",
+      "page": 1,
+      "confidence": 0.5,
+      "language": "English",
+      "alignment": "left",
+      "bold": false,
+      "italic": false,
+      "color": "#00ADEF"
+    },
+    {
+      "level": "H1",
+      "text": "より良い日本での生活のために",
+      "page": 1,
+      "confidence": 0.7,
+      "language": "Japanese",
+      "alignment": "center",
+      "bold": false,
+      "italic": false,
+      "color": "#FFFFFF"
+    }
+  ]
+}

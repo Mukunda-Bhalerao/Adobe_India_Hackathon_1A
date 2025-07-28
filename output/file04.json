@@ -1,0 +1,137 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Parsippany -Troy Hills STEM Pathways",
+      "page": 0,
+      "confidence": 0.7,
+      "language": "English",
+      "alignment": "center",
+      "bold": true,
+      "italic": false,
+      "color": "#2D75B5"
+    },
+    {
+      "level": "H3",
+      "text": "Mission Statement:",
+      "page": 0,
+      "confidence": 0.5,
+      "language": "English",
+      "alignment": "left",
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 0,
+      "confidence": 0.6,
+      "language": "unknown",
+      "alignment": "right",
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    {
+      "level": "H3",
+      "text": "To provide PTHSD high school students with the opportunity to",
+      "page": 0,
+      "confidence": 0.5,
+      "language": "English",
+      "alignment": "center",
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    {
+      "level": "H3",
+      "text": "concentrate their studies, beyond those required in high school, in the areas of science,",
+      "page": 0,
+      "confidence": 0.5,
+      "language": "English",
+      "alignment": "center",
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    {
+      "level": "H3",
+      "text": "technology, engineering, and mathematics, and expose students to relevant real world",
+      "page": 0,
+      "confidence": 0.5,
+      "language": "English",
+      "alignment": "center",
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    {
+      "level": "H3",
+      "text": "experiences through project work, conferences and presentations to enhance their high school",
+      "page": 0,
+      "confidence": 0.5,
+      "language": "English",
+      "alignment": "center",
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    {
+      "level": "H3",
+      "text": "experience.",
+      "page": 0,
+      "confidence": 0.5,
+      "language": "English",
+      "alignment": "left",
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    {
+      "level": "H2",
+      "text": "PATHWAY OPTIONS",
+      "page": 0,
+      "confidence": 0.6,
+      "language": "English",
+      "alignment": "center",
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    },
+    {
+      "level": "H2",
+      "text": "REGULAR PATHWAY",
+      "page": 0,
+      "confidence": 0.6,
+      "language": "English",
+      "alignment": "left",
+      "bold": true,
+      "italic": false,
+      "color": "#000000"
+    },
+    {
+      "level": "H2",
+      "text": "DISTINCTION PATHWAY",
+      "page": 0,
+      "confidence": 0.6,
+      "language": "English",
+      "alignment": "right",
+      "bold": true,
+      "italic": false,
+      "color": "#000000"
+    },
+    {
+      "level": "H3",
+      "text": "Goals:",
+      "page": 0,
+      "confidence": 0.5,
+      "language": "English",
+      "alignment": "left",
+      "bold": false,
+      "italic": false,
+      "color": "#000000"
+    }
+  ]
+}
